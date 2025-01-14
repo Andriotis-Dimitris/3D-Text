@@ -1,4 +1,6 @@
-# Three.js Journey
+# About 
+Based on Three.js Journey
+Created to show simple 3D Text.
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
