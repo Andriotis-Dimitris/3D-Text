@@ -2,6 +2,11 @@
 Based on Three.js Journey
 Created to show simple 3D Text.
 
+## Links
+
+- [GitHub](https://github.com/Andriotis-Dimitris/3D-Text)
+- [Live](https://3d-text-andriotis-dimitris-projects.vercel.app)
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
